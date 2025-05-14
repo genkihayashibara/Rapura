@@ -1,5 +1,4 @@
 streamlit
 rawpy
-imageio
 Pillow
 numpy
