@@ -2,4 +2,3 @@ streamlit
 rawpy
 Pillow
 numpy
-opencv-python
