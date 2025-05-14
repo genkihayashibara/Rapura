@@ -18,7 +18,6 @@ if uploaded_files:
             # 画像を読み込む（PILで）
             image = Image.open(f)
             st.image(image, caption=f.name, use_container_width=True)
-
             # 仮のAIスコア表示（ここは今後APIと接続）
             st.markdown("**顔スコア: 89 / 構図: 85 / ピント: OK**")
             st.markdown("> コメント：目線と表情がよく、バランスの取れた一枚です。")
