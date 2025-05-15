@@ -1,5 +1,1 @@
-LapRaS v2.1 α - 本番UIアップデート完全反映
-- ピント判定
-- 色縁
-- グリッド切替
-- フォント改良
+Dummy content for README_LapRaS.txt
