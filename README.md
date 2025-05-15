@@ -1,1 +1,1 @@
-Dummy content for README.md
+# 説明ファイル

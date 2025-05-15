@@ -1,5 +1,1 @@
-streamlit==1.45.1
-pandas
-numpy
-rawpy
-Pillow
+# 依存ライブラリ定義
