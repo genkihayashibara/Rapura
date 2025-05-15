@@ -1,1 +1,5 @@
-Dummy content for requirements.txt
+streamlit==1.45.1
+pandas
+numpy
+rawpy
+Pillow
